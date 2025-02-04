@@ -16,3 +16,5 @@
     <img src="https://skillicons.dev/icons?i=swift,reactivex,figma,firebase" />
   </a>
 </p>
+
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
