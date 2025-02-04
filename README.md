@@ -14,6 +14,6 @@ I'm an aspiring **iOS Developer** passionate about building clean and efficient 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,reactivex,figma,firebase,vim" />
+    <img src="https://skillicons.dev/icons?i=swift,reactivex,figma,firebase" />
   </a>
 </p>
