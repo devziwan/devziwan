@@ -12,4 +12,8 @@ I'm an aspiring **iOS Developer** passionate about building clean and efficient 
   ![UIKit](https://img.shields.io/badge/UIKit-%230078D6.svg?style=for-the-badge)  
   ![RxSwift](https://img.shields.io/badge/RxSwift-%23D222D2.svg?style=for-the-badge&logo=ReactiveX&logoColor=white)  
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,xcode,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,reactivex,figma,firebase,vim" />
+  </a>
+</p>
