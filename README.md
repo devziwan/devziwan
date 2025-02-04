@@ -1,5 +1,4 @@
-## 👋 Hi, I'm Yoo Ji Wan!  
-I'm an aspiring **iOS Developer** passionate about building clean and efficient apps.  
+##  Hi, I'm Yoo Ji Wan!    
 
 ### 🛠 Tech Stack  
 - **Development Tool**:  
