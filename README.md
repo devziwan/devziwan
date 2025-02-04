@@ -1,4 +1,11 @@
 ## Hi there 👋
 
 ### Skile
-[![My Skills](https://skillicons.dev/icons?i=aws,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i= firebase, swift " />
+  </a>
+</p>
+
+
+![RxSwift](https://img.shields.io/badge/RxSwift-%23D222D2.svg?style=for-the-badge&logo=ReactiveX&logoColor=white)
