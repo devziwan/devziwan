@@ -1,4 +1,7 @@
 ##  Hi, I'm Yoo Ji Wan!    
+![Uploading background.jpg…]()
+
+
 
 ### 🛠 Tech Stack  
 - **Development Tool**:  
