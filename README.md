@@ -6,5 +6,3 @@ I'm an aspiring **iOS Developer** passionate about building clean and efficient 
 - **Languages**: Swift  
 - **Frameworks**: UIKit, RxSwift  
 
-🚀 Always learning & improving! 
-
