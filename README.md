@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" dark="100%" />
 </div>
 
 > **"기술의 나열보다 사용자의 필요에 닿는 단 하나의 본질에 집중합니다. 유지완."**
