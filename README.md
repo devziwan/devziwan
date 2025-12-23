@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devziwan/devziwan/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=YOO%20JI%20WAN&fontSize=70&animation=fadeIn&fontAlignY=40&desc=iOS%20Developer&descAlignY=60&descSize=20" />
 </div>
-
-<br/>
 
 # 유지완
 ## iOS Developer.
