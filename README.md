@@ -48,5 +48,5 @@
 ---
 
 ### 📫 Connect
-* **Email**: [이메일 주소]
+* **Email**: yuujiwan@gmail.com
 * **GitHub**: [@devziwan](https://github.com/devziwan)
