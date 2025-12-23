@@ -1,10 +1,3 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=YOO%20JI%20WAN&fontSize=70&animation=fadeIn&fontAlignY=40&desc=iOS%20Developer&descAlignY=60&descSize=20" />
-</div>
-
-# 유지완
-## iOS Developer.
-
 > **"기술의 나열보다 사용자의 필요에 닿는 단 하나의 본질에 집중합니다. 유지완."**
 
 일상 속 사소한 불편함에서 서비스의 이유를 찾고, 이를 가장 직관적인 인터페이스와 기술로 해결하는 과정에서 즐거움을 느낍니다. 코드는 보이지 않는 곳에서 완벽해야 하며, 결과물은 오직 사용자의 편의만을 향해야 한다고 믿습니다.
