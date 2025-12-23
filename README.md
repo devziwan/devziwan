@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:cccccc,100:666666&height=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:cccccc,100:666666&height=1"/>
 
 > **"기술의 나열보다 사용자의 필요에 닿는 단 하나의 본질에 집중합니다. 유지완."**
 
