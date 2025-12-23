@@ -1,4 +1,4 @@
-https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png
+![설명](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 > **"기술의 나열보다 사용자의 필요에 닿는 단 하나의 본질에 집중합니다."**
 
