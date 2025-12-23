@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=YOO%20JI%20WAN&fontSize=70&animation=fadeIn&fontAlignY=40&desc=iOS%20Developer&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=200&section=header&text=YOO%20JI%20WAN&fontSize=70&animation=fadeIn&fontAlignY=40&desc=iOS%20Developer&descAlignY=60&descSize=20" />
 </div>
 
 # 유지완
