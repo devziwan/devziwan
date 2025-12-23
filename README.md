@@ -48,4 +48,5 @@
 ---
 
 ### 📫 Connect
-[Email](mailto:지완님_이메일) · [LinkedIn](지완님_링크드인_주소)
+* **Email**: [이메일 주소]
+* **GitHub**: [@devziwan](https://github.com/devziwan)
