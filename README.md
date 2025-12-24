@@ -15,7 +15,7 @@
 
 * **핵심 성과**: 1인 개발로 기획부터 앱스토어 출시까지 전 과정 수행
 * **주요 특징**: OneSignal API 기반의 **'30분 전 정밀 알림'** 로직 설계 및 시스템 캘린더 동기화 구현
-* **기술 스택**: `Swift 6.2`, `Xcode 26.2`, `SwiftUI`, `Combine`, `Supabase`, `OneSignal`
+* **기술 스택**: `SwiftUI`, `Combine`, `Supabase`, `OneSignal` 등
   
 ---
 
