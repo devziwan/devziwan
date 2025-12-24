@@ -33,7 +33,7 @@
 
 ### **Technical Core**
 **Languages & Frameworks**
-`Swift` `SwiftUI` `UIKit` `Combine` `UserNotifications`
+`Swift` `SwiftUI` `UIKit` `Combine` `RxSwift`
 
 **Infrastructure & Tools**
 `OneSignal` `Supabase` `Firebase` `Git`
