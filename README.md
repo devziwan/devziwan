@@ -1,6 +1,6 @@
 ![설명](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120799762/529923312-d69c37eb-4f44-48f1-aa98-6c51b6513681.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251224T074842Z&X-Amz-Expires=300&X-Amz-Signature=74c0a35e5bb38c8b9447d178c7d77ddfd3311f19a48cced52acdc1ebe7f7d07c&X-Amz-SignedHeaders=host>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/120799762/529923312-d69c37eb-4f44-48f1-aa98-6c51b6513681.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251224T074842Z&X-Amz-Expires=300&X-Amz-Signature=74c0a35e5bb38c8b9447d178c7d77ddfd3311f19a48cced52acdc1ebe7f7d07c&X-Amz-SignedHeaders=host">
 
 
 > **"기술의 나열보다 사용자의 필요에 닿는 단 하나의 본질에 집중합니다."**
