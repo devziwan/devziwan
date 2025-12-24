@@ -31,7 +31,7 @@
 
 ---
 
-### **Technical Core**
+### 💻  **Technical Core**
 **Languages & Frameworks**
 `Swift` `SwiftUI` `UIKit` `Combine` `RxSwift`
 
