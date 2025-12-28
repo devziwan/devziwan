@@ -36,7 +36,7 @@
 * **기술 스택**: `UiKit`, `firebase`, `FSCalendar`
 
 <p align="left">
-  <a href="여기에_앱스토어_링크_복사">
+  <a href="https://apps.apple.com/kr/app/%EB%A8%B8%EC%8A%AC-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%9A%B4%EB%8F%99%EA%B8%B0%EB%A1%9D/id6741314809">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" width="150">
   </a>
 </p>
