@@ -51,4 +51,4 @@ SwiftUI 프로젝트까지 확장해 개인 앱 2종을 App Store에 출시·운
 
 ### 📫 Connect
 * **Email**: yuujiwan@gmail.com
-* **GitHub**: [@devziwan](https://github.com/devziwan)
+* **GitHub**: [@z1wan](https://github.com/z1wan)
